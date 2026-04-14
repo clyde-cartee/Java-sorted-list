@@ -1,0 +1,481 @@
+Script started on 2026-04-13 22:57:35-04:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="120" LINES="30"]
+[?2004h]0;carteec2@thur114-hp1: ~/csci271/Java-sorted-list[01;32mcarteec2@thur114-hp1[00m:[01;34m~/csci271/Java-sorted-list[00m$ javac assignment5.java 
+[?2004lNote: assignment5.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+[?2004h]0;carteec2@thur114-hp1: ~/csci271/Java-sorted-list[01;32mcarteec2@thur114-hp1[00m:[01;34m~/csci271/Java-sorted-list[00m$ javac assignment5.java [C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K
+[?2004l____________Main Menu_____________________
+select option :
+1: insert back
+2: insert front
+3: insert at index
+4: display items
+5: get item at index
+6: delete back
+7: delete front
+8: delete at index
+11: insert item Sorted
+88: Split List
+99: insert sort list
+9: exit
+1
+enter item to insert:
+1
+____________Main Menu_____________________
+select option :
+1: insert back
+2: insert front
+3: insert at index
+4: display items
+5: get item at index
+6: delete back
+7: delete front
+8: delete at index
+11: insert item Sorted
+88: Split List
+99: insert sort list
+9: exit
+2
+enter item to insert:
+4
+new node added at front !
+____________Main Menu_____________________
+select option :
+1: insert back
+2: insert front
+3: insert at index
+4: display items
+5: get item at index
+6: delete back
+7: delete front
+8: delete at index
+11: insert item Sorted
+88: Split List
+99: insert sort list
+9: exit
+2
+enter item to insert:
+8
+new node added at front !
+____________Main Menu_____________________
+select option :
+1: insert back
+2: insert front
+3: insert at index
+4: display items
+5: get item at index
+6: delete back
+7: delete front
+8: delete at index
+11: insert item Sorted
+88: Split List
+99: insert sort list
+9: exit
+1
+enter item to insert:
+1
+____________Main Menu_____________________
+select option :
+1: insert back
+2: insert front
+3: insert at index
+4: display items
+5: get item at index
+6: delete back
+7: delete front
+8: delete at index
+11: insert item Sorted
+88: Split List
+99: insert sort list
+9: exit
+2
+enter item to insert:
+2
+new node added at front !
+____________Main Menu_____________________
+select option :
+1: insert back
+2: insert front
+3: insert at index
+4: display items
+5: get item at index
+6: delete back
+7: delete front
+8: delete at index
+11: insert item Sorted
+88: Split List
+99: insert sort list
+9: exit
+2
+enter item to insert:
+56
+new node added at front !
+____________Main Menu_____________________
+select option :
+1: insert back
+2: insert front
+3: insert at index
+4: display items
+5: get item at index
+6: delete back
+7: delete front
+8: delete at index
+11: insert item Sorted
+88: Split List
+99: insert sort list
+9: exit
+1
+enter item to insert:
+1
+____________Main Menu_____________________
+select option :
+1: insert back
+2: insert front
+3: insert at index
+4: display items
+5: get item at index
+6: delete back
+7: delete front
+8: delete at index
+11: insert item Sorted
+88: Split List
+99: insert sort list
+9: exit
+4
+displayAll():
+____________List of 7 items________________
+[ 56 , 2 , 8 , 4 , 1 , 1 , 1] 
+
+displayRecursively():
+____________List of 7 items________________
+[ 56 , 2 , 8 , 4 , 1 , 1 , 1] 
+
+____________Main Menu_____________________
+select option :
+1: insert back
+2: insert front
+3: insert at index
+4: display items
+5: get item at index
+6: delete back
+7: delete front
+8: delete at index
+11: insert item Sorted
+88: Split List
+99: insert sort list
+9: exit
+11
+enter item to insert
+4
+____________Main Menu_____________________
+select option :
+1: insert back
+2: insert front
+3: insert at index
+4: display items
+5: get item at index
+6: delete back
+7: delete front
+8: delete at index
+11: insert item Sorted
+88: Split List
+99: insert sort list
+9: exit
+4
+displayAll():
+____________List of 8 items________________
+[ 4 , 56 , 2 , 8 , 4 , 1 , 1 , 1] 
+
+displayRecursively():
+____________List of 8 items________________
+[ 4 , 56 , 2 , 8 , 4 , 1 , 1 , 1] 
+
+____________Main Menu_____________________
+select option :
+1: insert back
+2: insert front
+3: insert at index
+4: display items
+5: get item at index
+6: delete back
+7: delete front
+8: delete at index
+11: insert item Sorted
+88: Split List
+99: insert sort list
+9: exit
+88
+enter index:
+7
+displayAll():
+____________List of 8 items________________
+[ 4 , 56 , 2 , 8 , 4 , 1 , 1 , 1] 
+
+displayAll():
+____________List of 8 items________________
+[ 4 , 56 , 2 , 8 , 4 , 1 , 1 , 1] 
+
+displayAll():
+____________List of 0 items________________
+The list is empty ...! 
+
+____________Main Menu_____________________
+select option :
+1: insert back
+2: insert front
+3: insert at index
+4: display items
+5: get item at index
+6: delete back
+7: delete front
+8: delete at index
+11: insert item Sorted
+88: Split List
+99: insert sort list
+9: exit
+88
+enter index:
+6
+displayAll():
+____________List of 8 items________________
+[ 4 , 56 , 2 , 8 , 4 , 1 , 1 , 1] 
+
+displayAll():
+____________List of 7 items________________
+[ 4 , 56 , 2 , 8 , 4 , 1 , 1] 
+
+displayAll():
+____________List of 1 items________________
+[ 1] 
+
+____________Main Menu_____________________
+select option :
+1: insert back
+2: insert front
+3: insert at index
+4: display items
+5: get item at index
+6: delete back
+7: delete front
+8: delete at index
+11: insert item Sorted
+88: Split List
+99: insert sort list
+9: exit
+4
+displayAll():
+____________List of 7 items________________
+[ 4 , 56 , 2 , 8 , 4 , 1 , 1] 
+
+displayRecursively():
+____________List of 7 items________________
+[ 4 , 56 , 2 , 8 , 4 , 1 , 1] 
+
+____________Main Menu_____________________
+select option :
+1: insert back
+2: insert front
+3: insert at index
+4: display items
+5: get item at index
+6: delete back
+7: delete front
+8: delete at index
+11: insert item Sorted
+88: Split List
+99: insert sort list
+9: exit
+99
+displayAll():
+____________List of 7 items________________
+[ 4 , 56 , 2 , 8 , 4 , 1 , 1] 
+
+displayAll():
+____________List of 4 items________________
+[ 4 , 56 , 2 , 8] 
+
+displayAll():
+____________List of 3 items________________
+[ 4 , 1 , 1] 
+
+displayAll():
+____________List of 4 items________________
+[ 4 , 56 , 2 , 8] 
+
+displayAll():
+____________List of 2 items________________
+[ 4 , 56] 
+
+displayAll():
+____________List of 2 items________________
+[ 2 , 8] 
+
+displayAll():
+____________List of 2 items________________
+[ 4 , 56] 
+
+displayAll():
+____________List of 1 items________________
+[ 4] 
+
+displayAll():
+____________List of 1 items________________
+[ 56] 
+
+displayAll():
+____________List of 2 items________________
+[ 2 , 8] 
+
+displayAll():
+____________List of 1 items________________
+[ 2] 
+
+displayAll():
+____________List of 1 items________________
+[ 8] 
+
+displayAll():
+____________List of 3 items________________
+[ 4 , 1 , 1] 
+
+displayAll():
+____________List of 2 items________________
+[ 4 , 1] 
+
+displayAll():
+____________List of 1 items________________
+[ 1] 
+
+displayAll():
+____________List of 2 items________________
+[ 4 , 1] 
+
+displayAll():
+____________List of 1 items________________
+[ 4] 
+
+displayAll():
+____________List of 1 items________________
+[ 1] 
+
+____________Main Menu_____________________
+select option :
+1: insert back
+2: insert front
+3: insert at index
+4: display items
+5: get item at index
+6: delete back
+7: delete front
+8: delete at index
+11: insert item Sorted
+88: Split List
+99: insert sort list
+9: exit
+4
+displayAll():
+____________List of 7 items________________
+[ 1 , 1 , 2 , 4 , 4 , 8 , 56] 
+
+displayRecursively():
+____________List of 7 items________________
+[ 1 , 1 , 2 , 4 , 4 , 8 , 56] 
+
+____________Main Menu_____________________
+select option :
+1: insert back
+2: insert front
+3: insert at index
+4: display items
+5: get item at index
+6: delete back
+7: delete front
+8: delete at index
+11: insert item Sorted
+88: Split List
+99: insert sort list
+9: exit
+11
+enter item to insert
+76
+____________Main Menu_____________________
+select option :
+1: insert back
+2: insert front
+3: insert at index
+4: display items
+5: get item at index
+6: delete back
+7: delete front
+8: delete at index
+11: insert item Sorted
+88: Split List
+99: insert sort list
+9: exit
+4
+displayAll():
+____________List of 8 items________________
+[ 1 , 1 , 2 , 4 , 4 , 8 , 56 , 76] 
+
+displayRecursively():
+____________List of 8 items________________
+[ 1 , 1 , 2 , 4 , 4 , 8 , 56 , 76] 
+
+____________Main Menu_____________________
+select option :
+1: insert back
+2: insert front
+3: insert at index
+4: display items
+5: get item at index
+6: delete back
+7: delete front
+8: delete at index
+11: insert item Sorted
+88: Split List
+99: insert sort list
+9: exit
+11
+enter item to insert
+7
+____________Main Menu_____________________
+select option :
+1: insert back
+2: insert front
+3: insert at index
+4: display items
+5: get item at index
+6: delete back
+7: delete front
+8: delete at index
+11: insert item Sorted
+88: Split List
+99: insert sort list
+9: exit
+4
+displayAll():
+____________List of 9 items________________
+[ 1 , 1 , 2 , 4 , 4 , 7 , 8 , 56 , 76] 
+
+displayRecursively():
+____________List of 9 items________________
+[ 1 , 1 , 2 , 4 , 4 , 7 , 8 , 56 , 76] 
+
+____________Main Menu_____________________
+select option :
+1: insert back
+2: insert front
+3: insert at index
+4: display items
+5: get item at index
+6: delete back
+7: delete front
+8: delete at index
+11: insert item Sorted
+88: Split List
+99: insert sort list
+9: exit
+9
+[?2004h]0;carteec2@thur114-hp1: ~/csci271/Java-sorted-list[01;32mcarteec2@thur114-hp1[00m:[01;34m~/csci271/Java-sorted-list[00m$ exit
+[?2004lexit
+
+Script done on 2026-04-13 23:01:28-04:00 [COMMAND_EXIT_CODE="0"]
